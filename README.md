@@ -47,3 +47,65 @@
 ---
 
 ⭐ *Always learning, building, and improving.*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="linkedin" 
+         height="35" width="45" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+<!-- Languages -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/>
+</a>
+
+<!-- Web -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50"/>
+</a>
+
+<!-- DevOps / Cloud (IMPORTANT FOR YOU) -->
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
+</a>
+
+<!-- Tools -->
+<a href="#" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
+</a>
+
+</p>
