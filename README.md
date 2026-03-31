@@ -18,9 +18,10 @@
 
 ## 🛠️ Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,django,html,css,js,github,linux,aws,docker,terraform&perline=6&height=500" />
+  <span>
+    <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,django,html,css,js,mongodb,mysql,linux,aws,docker,terraform&perline=6&height=70" />
+  </span>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
