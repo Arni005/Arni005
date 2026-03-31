@@ -18,7 +18,7 @@
 
 ## 🛠️ Languages and Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,django,html,css,js,linux,aws,docker,terraform" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,django,html,css,js,linux,aws,docker,terraform&perline=6&height=60" />
 </p>
 
 ---
