@@ -1,9 +1,5 @@
 # Hi 👋, I'm Arni
 
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arni005)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,3 +64,6 @@
 </a>
 
 </p>
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arni005)
