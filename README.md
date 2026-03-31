@@ -16,19 +16,10 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-`C++` `Python`
-
-### 🌐 Web Development
-`HTML` `CSS` `React` 
-
-### ☁️ Cloud & DevOps
-`AWS` `Docker` `Linux` `GitHub Actions` *(learning)*
-
-### 🗄️ Databases
-`SQL`
+## 🛠️ Languages and Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,django,html,css,js,linux,aws,docker,terraform" />
+</p>
 
 ---
 
