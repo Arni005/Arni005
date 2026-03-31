@@ -1,5 +1,5 @@
-# Hi, I'm Arni
-I'm a 3rd-year Computer Science student with a strong interest in Cloud Computing, DevOps, and Full Stack Development.I enjoy building real-world applications using technologies like Django, and FastAPI. Currently, I’m focused on learning AWS, Docker, and modern deployment practices.I like exploring how systems work behind the scenes and how to make them scalable and efficient.I’m actively working towards becoming a skilled Cloud/DevOps Engineer through hands-on projects.
+<h1 align="center"> Hi, I'm Arni </h1>
+<h3 align="center">I'm a 3rd-year Computer Science student with a strong interest in Cloud Computing, DevOps, and Full Stack Development.I enjoy building real-world applications using technologies like Django, and FastAPI. Currently, I’m focused on learning AWS, Docker, and modern deployment practices.I like exploring how systems work behind the scenes and how to make them scalable and efficient.I’m actively working towards becoming a skilled Cloud/DevOps Engineer through hands-on projects.</h3>
  
   
 <h3 align="left">Connect with me:</h3>
