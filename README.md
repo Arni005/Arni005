@@ -20,51 +20,51 @@
 
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=fastapi" height="100"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="100"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" height="100"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="100"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://skillicons.dev/icons?i=terraform" height="100"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
 </a>
 
 <a href="#" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
 </a>
 
 </p>
