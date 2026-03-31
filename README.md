@@ -29,6 +29,35 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/>
 </a>
 
+<!-- Django -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="50"/>
+</a>
+
+<!-- FastAPI -->
+<a href="#" target="_blank">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+</a>
+
+<!-- MySQL -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50"/>
+</a>
+
+<!-- HTML -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50"/>
+</a>
+
+<!-- CSS -->
+<a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
 <a href="#" target="_blank">
   <img src="https://skillicons.dev/icons?i=aws" height="50"/>
@@ -44,11 +73,6 @@
 
 <a href="#" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
-</a>
-
-<!-- Tools -->
-<a href="#" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
 </a>
 
 </p>
