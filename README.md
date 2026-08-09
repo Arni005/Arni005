@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0f172a&height=220&section=header&text=Arni%20Johry&fontSize=56&fontColor=e0f2fe&animation=fadeIn&fontAlignY=38&desc=Cloud%20%2F%20DevOps%20Engineer%20in%20the%20making%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=19&descColor=93c5fd" width="100%"/>
 
 <a href="https://github.com/Arni005">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+cloud-native+systems;Automating+deployments+with+Docker+%26+AWS;Exploring+Django+%2B+FastAPI+backends;Open+to+Cloud+%2F+DevOps+%2F+Full-Stack+roles;&font=Fira+Code&center=true&width=600&height=45&color=60a5fa&vCenter=true&size=22&pause=1200&background=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+cloud-native+systems;Automating+deployments+with+Docker+%26+AWS;Exploring+Django+%2B+FastAPI+backends;Open+to+Cloud+%2F+DevOps+%2F+Backend+roles;&font=Fira+Code&center=true&width=600&height=45&color=60a5fa&vCenter=true&size=22&pause=1200&background=00000000"/>
 </a>
 
 <br/>
@@ -39,7 +39,7 @@ I like pulling systems apart to see how they work behind the scenes, and figurin
 🎓 Studying:    Computer Science (B.Tech, 4th Year)
 ☁️ Building:    Cloud-native apps, CI/CD pipelines, AI-assisted tools
 🛠️ Learning:    AWS, Docker, Terraform, scalable system design
-🤝 Open to:     Cloud / DevOps / Full-Stack opportunities
+🤝 Open to:     Cloud / DevOps / Backend opportunities
 🌐 Portfolio:   arni.live
 ```
 
@@ -193,7 +193,7 @@ learning:
 
 open_to:
   - 💼 Cloud / DevOps Engineer roles (Fresher)
-  - 🧩 Full-Stack Developer opportunities (Django / FastAPI / React)
+  - 🧩 Backend Developer opportunities (Django / FastAPI / Nodejs)
 
 goal_for_this_year:
   - 🚀 Ship a fully deployed, production-grade cloud project
