@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-2563eb?style=for-the-badge&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Year-3rd%20Year-2563eb?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Year-4th%20Year-2563eb?style=for-the-badge&labelColor=0f172a"/>
 <img src="https://img.shields.io/badge/Location-India-2563eb?style=for-the-badge&labelColor=0f172a&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
@@ -20,7 +20,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arni005&label=Profile%20Views&color=2563eb&style=for-the-badge&labelColor=0f172a"/>
 <img src="https://img.shields.io/github/followers/Arni005?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 <img src="https://img.shields.io/github/stars/Arni005?label=Stars&style=for-the-badge&color=2563eb&labelColor=0f172a"/>
 
@@ -32,12 +31,12 @@
 
 ### 👩‍💻 About Me
 
-I'm a **3rd-year Computer Science** student with a strong interest in **Cloud Computing, DevOps, and Full Stack Development**. I enjoy building real-world applications with **Django** and **FastAPI**, and I'm currently deep in **AWS, Docker, and modern deployment practices**.
+I'm a **4th-year Computer Science** student with a strong interest in **Cloud Computing, DevOps, and Backend Development**. I enjoy building real-world applications with **Django** and **FastAPI**, and I'm currently deep in **AWS, Docker, and modern deployment practices**.
 
 I like pulling systems apart to see how they work behind the scenes, and figuring out how to make them scalable and efficient — actively working towards becoming a skilled **Cloud / DevOps Engineer** through hands-on, end-to-end projects.
 
 ```yaml
-🎓 Studying:    Computer Science (B.Tech, 3rd Year)
+🎓 Studying:    Computer Science (B.Tech, 4th Year)
 ☁️ Building:    Cloud-native apps, CI/CD pipelines, AI-assisted tools
 🛠️ Learning:    AWS, Docker, Terraform, scalable system design
 🤝 Open to:     Cloud / DevOps / Full-Stack opportunities
@@ -60,13 +59,13 @@ I like pulling systems apart to see how they work behind the scenes, and figurin
 
 **Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=django,fastapi,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi"/>
 
 <br/><br/>
 
 **Cloud, DevOps & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,kubernetes"/>
 
 <br/><br/>
 
@@ -197,7 +196,6 @@ open_to:
   - 🧩 Full-Stack Developer opportunities (Django / FastAPI / React)
 
 goal_for_this_year:
-  - 🎓 Earn a foundational AWS certification
   - 🚀 Ship a fully deployed, production-grade cloud project
 ```
 
